@@ -4,6 +4,7 @@
   "require" : {
     "php" : ">=5.1.2",
     "ext-tokenizer" : "*",
+    "simplyadmire/composer-plugins" : "~2.0",
     "squizlabs/php_codesniffer" : ">=1.5.1,<2.4"
   },
   "require-dev" : {
